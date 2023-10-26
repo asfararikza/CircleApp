@@ -1,16 +1,8 @@
-# http_request
+# Circle (124210053) 
 
-A new Flutter project.
+Sebuah aplikasi yang menampilkan beberapa user beserta detailnya. Aplikasi ini menggunakan API dari Reqres.in untuk mengambil data user.
+Berikut halaman yang terdapat pada aplikasi :
+- Welcome page: halaman awal saat aplikasi dibuka
+- List Users page: halaman menampilkan daftar user yang dimiliki
+- Detail User page: halaman detail informasi user
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
